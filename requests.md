@@ -15,5 +15,5 @@ python -m venv <environment>
 ## Instalar Requests
 
 ```py
-python -m pip install requests
+pip install scrapy
 ```
