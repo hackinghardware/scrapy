@@ -17,7 +17,3 @@ python -m venv <environment>
 ```py
 python -m pip install requests
 ```
-
-# Actividades
-
-1. asdasd
